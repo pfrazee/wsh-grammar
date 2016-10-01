@@ -10,6 +10,6 @@ parser.parse('get foo ?a b | post bar "c d"') /* => {
 }*/
 ```
 
-**To build the parser**: `npm run build`
-**To build the fixtures**: `npm run build-fixtures` 
-**To test**: `npm test`
+- **To build the parser**: `npm run build`
+- **To build the fixtures**: `npm run build-fixtures` 
+- **To test**: `npm test`
